@@ -7,15 +7,12 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:geocoding/geocoding.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:post_project/domen/bloc/auth_bloc.dart';
-import 'package:post_project/domen/map/app_lat_long.dart';
-import 'package:post_project/domen/map/location_service.dart';
 import 'package:post_project/generated/locale_keys.g.dart';
 import 'package:post_project/ui/components/address.dart';
 import 'package:post_project/ui/components/custom_input_field.dart';
 import 'package:post_project/ui/components/custom_map.dart';
 import 'package:post_project/ui/components/description_field.dart';
 import 'package:post_project/ui/pages/home_page/home_page.dart';
-import 'package:yandex_mapkit/yandex_mapkit.dart';
 
 class AdsPageBody extends StatefulWidget {
   const AdsPageBody({super.key});
@@ -76,7 +73,7 @@ class _AdsPageBodyState extends State<AdsPageBody> {
                     lat: lat,
                     lot: lon ,
                   ));
-                  // Navigator.push(context, CupertinoPageRoute(builder: (context) => HomePage(),));
+                  Navigator.push(context, CupertinoPageRoute(builder: (context) => HomePage(),));
                 }
               },
               icon: const Icon(Icons.arrow_forward),
