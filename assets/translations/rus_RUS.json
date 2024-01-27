@@ -1,0 +1,17 @@
+{
+    "Languages" : "Языки",
+    "Choosealanguage" : "Выберите язык",
+    "SignUp" : "Зарегистрироваться",
+    "FirstName" : "Имя",
+    "LastName" : "Фамилия",
+    "Phonenumber" : "Номер телефона",
+    "Password" : "Пароль",
+    "Confirmpassword" : "Подтвердите пароль" ,
+    "Enter" : "Напишите",
+    "Newads" : "Новые объявления",
+    "Title" : "Заголовок",
+    "Description" : "Описание" ,
+    "Addressbylocation" : "Адрес по местоположению",
+    "Changelocation" : "Изменить местоположение",
+    "Save" : "Сохранить"
+  }

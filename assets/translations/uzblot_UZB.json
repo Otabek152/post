@@ -1,0 +1,18 @@
+{
+  "Languages" : "Tillar",
+  "Choosealanguage" : "Tilni tanlang",
+  "SignUp" : "Ro'yhatdan o'tish",
+  "FirstName" : "Ismingiz",
+  "LastName" : "Familyangiz",
+  "Phonenumber" : "Telefon raqamingiz",
+  "Password" : "Himoya kodi",
+  "Confirmpassword" : "Himoya kodini tasdiqlang" ,
+  "Enter" : "Kiriting",
+  "Newads" : "Yangi reklama",
+  "Title" : "Sarlavha",
+  "Description" : "Batafsil ma'lumot" ,
+  "Addressbylocation" : "Manzil",
+  "Changelocation" : "Manzilni o'zgartirish",
+  "Save" : "Saqlash"
+
+}
